@@ -1,0 +1,11 @@
+com/kriscfoster/school/subject/SubjectRepository.class
+com/kriscfoster/school/student/StudentController.class
+com/kriscfoster/school/student/StudentRepository.class
+com/kriscfoster/school/student/Student.class
+com/kriscfoster/school/subject/SubjectController.class
+com/kriscfoster/school/teacher/TeacherController.class
+com/kriscfoster/school/teacher/TeacherRepository.class
+com/kriscfoster/school/SchoolApplication.class
+com/kriscfoster/school/WebConfiguration.class
+com/kriscfoster/school/subject/Subject.class
+com/kriscfoster/school/teacher/Teacher.class
